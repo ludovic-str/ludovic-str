@@ -1,33 +1,50 @@
-### Hi there, I'm Ludovic 👋
+<h1 align='center'> Hi there 👋, I'm Ludovic  👩‍💻 </h1>
 
-## I'm an IT student
+<p align='center'>
+  Epitech Student in Strasbourg
+</p>
 
-- 🌱 I’m currently learning C and javascript on my personnal time
-- 👯 I’m looking for an intership between July and December 2021
-- 🥅 2021 Goals: have a solid foundation as a backend developer
-- ⚡ Fun fact: I love to learn and discover new technologies and programming languages
+<p align='center'>
 
-### Here is my Linkedin:
+<a href="https://www.linkedin.com/in/ludovic-sutter-4389b5204/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sutterludovic67@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</p>
 
-<br />
+<hr>
 
-### Languages and Tools:
+<h4>🔭  I’m currently working with ...</h4>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png" />
-<img align="left" alt="Docker" width="26px" src="https://github.com/wesbos/Font-Awesome-Docker-Icon/blob/master/docker-white.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<h5>Front-end</h5>
+<p >
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/styledcomponents%20-%23db7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;
+</p>
 
-<br />
-<br />
+<h5>Back-end</h5>
+<p >
+  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/fastify-000000.svg?&style=for-the-badge&logo=fastify&logoColor=white%22%20" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
+</p>
 
----
+<h5>Other Language</h5>
+<p>
+<img src="https://img.shields.io/badge/c-000000.svg?&style=for-the-badge&logo=C" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-F7DF1E.svg?&style=for-the-badge&logo=python" />&nbsp;&nbsp;
+</p>
 
-[linkedin]: https://www.linkedin.com/in/ludovic-sutter-4389b5204/
+<h5>Tools</h5>
+<p>
+<img src="https://img.shields.io/badge/gitHub-181717.svg?&style=for-the-badge&logo=github" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/visual_studio_code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+<hr>
