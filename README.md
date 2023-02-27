@@ -54,6 +54,5 @@
   <img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
 </p>
 <hr>
