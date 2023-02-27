@@ -13,31 +13,47 @@
 
 <hr>
 
-<h4>🔭  I’m currently working with ...</h4>
+<h3>🔭  I’m currently working with ...</h4>
 
-<h5>Back-end</h5>
+<h4>Back-end</h5>
 <p >
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/fastify-000000.svg?&style=for-the-badge&logo=fastify&logoColor=white%22%20" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/prisma%20-30344C.svg?&style=for-the-badge&logo=prisma&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" />&nbsp;&nbsp;
 </p>
 
-<h5>Other Language</h5>
+<h4>Front-end</h5>
+<p >
+  <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=materialui" />&nbsp;
+</p>
+
+<h4>Other Language</h5>
 <p>
-<img src="https://img.shields.io/badge/c-000000.svg?&style=for-the-badge&logo=C" />&nbsp;
-<img src="https://img.shields.io/badge/c++-659bd3.svg?&style=for-the-badge&logo=c%2B%2B" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/python-F7DF1E.svg?&style=for-the-badge&logo=python" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/haskell-5e5086.svg?&style=for-the-badge&logo=haskell" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=haskell" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=regex" />&nbsp;
 </p>
 
-<h5>Tools</h5>
+<h4>Tools</h5>
 <p>
-<img src="https://img.shields.io/badge/gitHub-181717.svg?&style=for-the-badge&logo=github" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/visual_studio_code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=discord" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
 </p>
-
 <hr>
